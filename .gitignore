@@ -1,0 +1,18 @@
+#eclipse & mvn files
+*.project
+*.classpath
+*.settings
+target/*
+java-demo-biz/target/*
+java-demo-client/target/*
+java-demo-config/target/*
+java-demo-proxy/target/*
+java-demo-test/target/*
+java-demo-web/target/*
+tosp-dispute-biz/${tosp.titan.cache.dir}/*
+*.iml
+.idea/
+logs/
+*.log
+#windows files
+*.bak
